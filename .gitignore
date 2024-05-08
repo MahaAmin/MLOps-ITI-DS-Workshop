@@ -1,2 +1,3 @@
 flower_photos/
-mlops-iti-ds-workshop/Lab-2/flower_photos.tgz
+*.tgz
+*-checkpoint*
